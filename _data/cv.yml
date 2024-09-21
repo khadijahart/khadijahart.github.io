@@ -1,0 +1,48 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Khadijah
+    - name: Languages
+      value: English, Indonesian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Economics
+      institution: IPB University, Indonesia
+      year: 2017
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher
+      institution: CI-BEST (Center for Islamic Business and Economic Studies)
+      year: 2017 - 2019
+    
+    - title: Employee
+      institution: Spotless Brisbane
+      year: 2019 - 2023
+     
+
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2017
+      items:
+          - The 1st Best Poster in International Agricultural Student Summit (IASS), Universiti Putra Malaysia.
+          - Best Graduate of Economics and Management Faculty, Bogor Agricultural University
+    - year: 2015
+      items:
+        - Exchange Student to Japan in Six University Initiative Japan and Indonesia Service Learning Program (SUIJI-SLP), Kagawa University, Japan
+        - Summer School Student in Chonnam National University International Summer Session (CNUISS), Chonnam National University, South Korea. 
+    - year: 2014
+      items:
+        - The 3rd Most Outstanding Student, Bogor Agricultural University.
+        - The 1st Most Outstanding Student, Economics and Management Faculty.
+        - Runner Up of Campus Ambassador, Bogor Agricultural University
+
+
+

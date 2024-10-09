@@ -26,6 +26,7 @@ Hi, I'm Khadijah! I graduated with a degree in Economics, but my true passion li
 - [Simple Animation](/projects/2_project/)
 - [Event Brochure](/projects/3_project/)
 - [Baby Diary Book](/projects/4_project/)
+- [Lettering & Typography](/projects/5_project/)
 
 In my free time, I also enjoy creating content such as: [Instagram Reels](https://www.instagram.com/khadijahasim/reels/), [TikTok Videos](https://www.tiktok.com/@khadijahasim1), [YouTube Videos](https://www.youtube.com/alkwangju). Some of the content has very good engagement.
 

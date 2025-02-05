@@ -40,8 +40,20 @@ Youtube Thumbnail - Madina Trip
 </div>
 
 <div class="caption">
-Youtube Thumbnail - Jogja Trip
+Youtube Thumbnail - Jogja Trip 1
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/graphic_design/6.jpg" title="graphic_design" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+</div>
+
+<div class="caption">
+Youtube Thumbnail - Jogja Trip 2
+</div>
+
 
 
 

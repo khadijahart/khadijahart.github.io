@@ -10,11 +10,51 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/illustration/underwater.PNG" title="Mermaid underwater" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/illustration/curly_hair.JPG" title="Curly Hair" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/illustration/mirror.JPG" title="Mirror" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-Mermaid underwater
+Curly Red Hair and Girl standing in the front of mirror
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/illustration/cat.JPG" title="Cat" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/illustration/dynamic_pose.JPG" title="Dynamic Pose" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Cat and Dynamic pose
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/illustration/danau1.JPG" title="Rapunzel Day" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/illustration/danau2.JPG" title="Rapunzel Night" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Rapunzel Day & Night
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/illustration/underwater.PNG" title="Mermaid underwater" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/illustration/pink_girl.JPG" title="Pink Girl" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Mermaid underwater and Pink Girl
 </div>
 
 

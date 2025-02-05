@@ -86,9 +86,6 @@ Mermaid underwater and Pink Girl
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/illustration/4_Character_Folktale_DewiGaluh_DetailbyKhadijah.JPG" title="Character_Folktale_DewiGaluh_DetailbyKhadijah" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/illustration/6_GirlinPurple_byKhadijah.png" title="GirlinPurple_byKhadijah" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     

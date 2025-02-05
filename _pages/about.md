@@ -23,7 +23,6 @@ Hi, I'm Khadijah! I graduated with a degree in Economics, but my true passion li
 **The sample of my projects that can be public can be seen here:**
 - [Published Children Book](/projects/6_project/)
 - [Children's Book Illustrations](/projects/1_project/)
-- [Children's Book Illustrations](/projects/1_project/)
 - [Simple Animation](/projects/2_project/)
 - [Event Brochure](/projects/3_project/)
 - [Baby Diary Book](/projects/4_project/)
